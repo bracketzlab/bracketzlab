@@ -1,9 +1,5 @@
 <p align="center">
-  <!-- <img src="https://i.imgur.com/your-uploaded-logo-link.png" alt="BracketzLab Logo" width="300"/>  -->
-  <h1 align="center">BracketzLab</h1>
-  <h3 align="center">
-    <blockquote>"Build once, Build right."</blockquote>
-  </h3>
+  <img src="https://bracketzlab.com/wp-content/uploads/2025/09/bl-logo.png" alt="BracketzLab Logo - Build once, Build right." width="300"/>
 </p>
 
 ---
@@ -47,24 +43,6 @@ Showcasing projects that highlight our technical prowess and contribution strate
 | **`enterprise-ui-kit`** | A reusable, framework-agnostic component library for enterprise front-ends. | `React`, `TypeScript`, `Styled-Components` | `Maintenance` |
 | **`mobile-data-sync`** | Library for managing reliable, offline-first data sync in mobile applications. | `TypeScript`, `SQL Lite` | `Beta Release` |
 
----
-
-## 📈 GitHub Metrics (Powered by Real-Time Services)
-
-**To activate these high-quality, real-time badges, replace `YOUR_GITHUB_ORG_NAME` below with your actual GitHub username or organization name: `BracketzLab`**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ORG_NAME&show_icons=true&theme=dark&hide_border=true&rank_icon=title" 
-       alt="BracketzLab GitHub Stats" 
-       height="170"/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_ORG_NAME&layout=compact&theme=dark&hide_border=true" 
-       alt="BracketzLab Top Languages" 
-       height="170"/>
-
-  </p>
-
----
 
 ## 💬 Connect With Us
 
