@@ -1,4 +1,5 @@
 <p align="center">
+  <!-- <img src="https://i.imgur.com/your-uploaded-logo-link.png" alt="BracketzLab Logo" width="300"/>  -->
   <h1 align="center">BracketzLab</h1>
   <h3 align="center">
     <blockquote>"Build once, Build right."</blockquote>
@@ -38,7 +39,7 @@ We leverage the power of the modern ecosystem to ensure performance, stability, 
 
 ## 💡 Featured Repositories
 
-Here are a few projects that highlight our technical prowess and contribution strategy:
+Showcasing projects that highlight our technical prowess and contribution strategy:
 
 | Repository | Description | Technologies | Status |
 | :--- | :--- | :--- | :--- |
@@ -48,14 +49,20 @@ Here are a few projects that highlight our technical prowess and contribution st
 
 ---
 
-## 🔥 GitHub Stats
+## 📈 GitHub Metrics (Powered by Real-Time Services)
 
-*A professional GitHub profile often features dynamic badges to show real-time statistics. Here are placeholder links you can replace with generated image URLs.*
+**To activate these high-quality, real-time badges, replace `YOUR_GITHUB_ORG_NAME` below with your actual GitHub username or organization name: `BracketzLab`**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BracketzLab&show_icons=true&theme=dark" alt="BracketzLab GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BracketzLab&layout=compact&theme=dark" alt="BracketzLab Top Languages"/>
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ORG_NAME&show_icons=true&theme=dark&hide_border=true&rank_icon=title" 
+       alt="BracketzLab GitHub Stats" 
+       height="170"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_ORG_NAME&layout=compact&theme=dark&hide_border=true" 
+       alt="BracketzLab Top Languages" 
+       height="170"/>
+
+  </p>
 
 ---
 
